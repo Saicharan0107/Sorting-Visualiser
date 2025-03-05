@@ -23,11 +23,11 @@ A Python-based **Sorting Algorithm Visualizer** that demonstrates the step-by-st
    ```bash
    git clone https://github.com/saicharan0107/sorting-visualizer.git
    cd sorting-visualizer
-2. **Install Dependencies
+2. **Install Dependencies**
 ```bash
 pip install matplotlib
 ```
-3. **Run Any Sorting Algorithm
+3. **Run Any Sorting Algorithm**
 ```bash
 python selection_sort.py
 ```
